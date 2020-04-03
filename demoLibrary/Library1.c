@@ -67,7 +67,7 @@ void putChar(char output){
 
 char getInput(){
     char input [100];
-    gets_s(input, 100);
+    fgets(input, 100, stdin);
     return (char) input;
 }
 

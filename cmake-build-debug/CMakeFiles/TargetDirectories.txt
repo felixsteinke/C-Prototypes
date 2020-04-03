@@ -1,4 +1,4 @@
-C:/Users/stein/CLionProjects/BeginnerTutorial/cmake-build-debug/CMakeFiles/BeginnerTutorial.dir
-C:/Users/stein/CLionProjects/BeginnerTutorial/cmake-build-debug/CMakeFiles/Library1.dir
-C:/Users/stein/CLionProjects/BeginnerTutorial/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/stein/CLionProjects/BeginnerTutorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/stein/CLionProjects/PROG-3-Examples/cmake-build-debug/CMakeFiles/BeginnerTutorial.dir
+C:/Users/stein/CLionProjects/PROG-3-Examples/cmake-build-debug/CMakeFiles/Library1.dir
+C:/Users/stein/CLionProjects/PROG-3-Examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stein/CLionProjects/PROG-3-Examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
