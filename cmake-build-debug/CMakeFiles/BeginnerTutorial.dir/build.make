@@ -77,17 +77,80 @@ CMakeFiles\BeginnerTutorial.dir\demo1\Main.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\BeginnerTutorial.dir\demo1\Main.c.s /c C:\Users\stein\CLionProjects\BeginnerTutorial\demo1\Main.c
 <<
 
+CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.obj: CMakeFiles\BeginnerTutorial.dir\flags.make
+CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.obj: ..\FelixWorkspace\Workspace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/BeginnerTutorial.dir/FelixWorkspace/Workspace.c.obj"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.obj /FdCMakeFiles\BeginnerTutorial.dir\ /FS -c C:\Users\stein\CLionProjects\BeginnerTutorial\FelixWorkspace\Workspace.c
+<<
+
+CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BeginnerTutorial.dir/FelixWorkspace/Workspace.c.i"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\stein\CLionProjects\BeginnerTutorial\FelixWorkspace\Workspace.c
+<<
+
+CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BeginnerTutorial.dir/FelixWorkspace/Workspace.c.s"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.s /c C:\Users\stein\CLionProjects\BeginnerTutorial\FelixWorkspace\Workspace.c
+<<
+
+CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.obj: CMakeFiles\BeginnerTutorial.dir\flags.make
+CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.obj: ..\FloWorkspace\Workspace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/BeginnerTutorial.dir/FloWorkspace/Workspace.c.obj"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.obj /FdCMakeFiles\BeginnerTutorial.dir\ /FS -c C:\Users\stein\CLionProjects\BeginnerTutorial\FloWorkspace\Workspace.c
+<<
+
+CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BeginnerTutorial.dir/FloWorkspace/Workspace.c.i"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\stein\CLionProjects\BeginnerTutorial\FloWorkspace\Workspace.c
+<<
+
+CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BeginnerTutorial.dir/FloWorkspace/Workspace.c.s"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.s /c C:\Users\stein\CLionProjects\BeginnerTutorial\FloWorkspace\Workspace.c
+<<
+
+CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.obj: CMakeFiles\BeginnerTutorial.dir\flags.make
+CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.obj: ..\johnnyWorkspace\Workspace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/BeginnerTutorial.dir/johnnyWorkspace/Workspace.c.obj"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.obj /FdCMakeFiles\BeginnerTutorial.dir\ /FS -c C:\Users\stein\CLionProjects\BeginnerTutorial\johnnyWorkspace\Workspace.c
+<<
+
+CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/BeginnerTutorial.dir/johnnyWorkspace/Workspace.c.i"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\stein\CLionProjects\BeginnerTutorial\johnnyWorkspace\Workspace.c
+<<
+
+CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/BeginnerTutorial.dir/johnnyWorkspace/Workspace.c.s"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.s /c C:\Users\stein\CLionProjects\BeginnerTutorial\johnnyWorkspace\Workspace.c
+<<
+
 # Object files for target BeginnerTutorial
 BeginnerTutorial_OBJECTS = \
-"CMakeFiles\BeginnerTutorial.dir\demo1\Main.c.obj"
+"CMakeFiles\BeginnerTutorial.dir\demo1\Main.c.obj" \
+"CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.obj" \
+"CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.obj" \
+"CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.obj"
 
 # External object files for target BeginnerTutorial
 BeginnerTutorial_EXTERNAL_OBJECTS =
 
 BeginnerTutorial.exe: CMakeFiles\BeginnerTutorial.dir\demo1\Main.c.obj
+BeginnerTutorial.exe: CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.obj
+BeginnerTutorial.exe: CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.obj
+BeginnerTutorial.exe: CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.obj
 BeginnerTutorial.exe: CMakeFiles\BeginnerTutorial.dir\build.make
 BeginnerTutorial.exe: CMakeFiles\BeginnerTutorial.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable BeginnerTutorial.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable BeginnerTutorial.exe"
 	C:\Users\stein\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6911.21\bin\cmake\win\bin\cmake.exe -E vs_link_exe --intdir=CMakeFiles\BeginnerTutorial.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100177~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100177~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\BeginnerTutorial.dir\objects1.rsp @<<
  /out:BeginnerTutorial.exe /implib:BeginnerTutorial.lib /pdb:C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\BeginnerTutorial.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

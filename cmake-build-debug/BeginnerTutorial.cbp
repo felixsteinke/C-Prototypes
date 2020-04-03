@@ -122,10 +122,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/stein/CLionProjects/BeginnerTutorial/FelixWorkspace/Workspace.c">
+			<Option target="BeginnerTutorial"/>
+			<Option target="Library1"/>
+		</Unit>
+		<Unit filename="C:/Users/stein/CLionProjects/BeginnerTutorial/FloWorkspace/Workspace.c">
+			<Option target="BeginnerTutorial"/>
+			<Option target="Library1"/>
+		</Unit>
 		<Unit filename="C:/Users/stein/CLionProjects/BeginnerTutorial/demo1/Main.c">
 			<Option target="BeginnerTutorial"/>
 		</Unit>
 		<Unit filename="C:/Users/stein/CLionProjects/BeginnerTutorial/demoLibrary/Library1.c">
+			<Option target="Library1"/>
+		</Unit>
+		<Unit filename="C:/Users/stein/CLionProjects/BeginnerTutorial/johnnyWorkspace/Workspace.c">
+			<Option target="BeginnerTutorial"/>
 			<Option target="Library1"/>
 		</Unit>
 		<Unit filename="C:/Users/stein/CLionProjects/BeginnerTutorial/CMakeLists.txt">

@@ -77,17 +77,80 @@ CMakeFiles\Library1.dir\demoLibrary\Library1.c.s: cmake_force
  /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Library1.dir\demoLibrary\Library1.c.s /c C:\Users\stein\CLionProjects\BeginnerTutorial\demoLibrary\Library1.c
 <<
 
+CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.obj: CMakeFiles\Library1.dir\flags.make
+CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.obj: ..\FelixWorkspace\Workspace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Library1.dir/FelixWorkspace/Workspace.c.obj"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.obj /FdCMakeFiles\Library1.dir\Library1.pdb /FS -c C:\Users\stein\CLionProjects\BeginnerTutorial\FelixWorkspace\Workspace.c
+<<
+
+CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Library1.dir/FelixWorkspace/Workspace.c.i"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\stein\CLionProjects\BeginnerTutorial\FelixWorkspace\Workspace.c
+<<
+
+CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Library1.dir/FelixWorkspace/Workspace.c.s"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.s /c C:\Users\stein\CLionProjects\BeginnerTutorial\FelixWorkspace\Workspace.c
+<<
+
+CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.obj: CMakeFiles\Library1.dir\flags.make
+CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.obj: ..\FloWorkspace\Workspace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Library1.dir/FloWorkspace/Workspace.c.obj"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Library1.dir\FloWorkspace\Workspace.c.obj /FdCMakeFiles\Library1.dir\Library1.pdb /FS -c C:\Users\stein\CLionProjects\BeginnerTutorial\FloWorkspace\Workspace.c
+<<
+
+CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Library1.dir/FloWorkspace/Workspace.c.i"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\stein\CLionProjects\BeginnerTutorial\FloWorkspace\Workspace.c
+<<
+
+CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Library1.dir/FloWorkspace/Workspace.c.s"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Library1.dir\FloWorkspace\Workspace.c.s /c C:\Users\stein\CLionProjects\BeginnerTutorial\FloWorkspace\Workspace.c
+<<
+
+CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.obj: CMakeFiles\Library1.dir\flags.make
+CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.obj: ..\johnnyWorkspace\Workspace.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/Library1.dir/johnnyWorkspace/Workspace.c.obj"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoCMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.obj /FdCMakeFiles\Library1.dir\Library1.pdb /FS -c C:\Users\stein\CLionProjects\BeginnerTutorial\johnnyWorkspace\Workspace.c
+<<
+
+CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Library1.dir/johnnyWorkspace/Workspace.c.i"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe > CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.i @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\stein\CLionProjects\BeginnerTutorial\johnnyWorkspace\Workspace.c
+<<
+
+CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Library1.dir/johnnyWorkspace/Workspace.c.s"
+	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\cl.exe @<<
+ /nologo $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) /FoNUL /FAs /FaCMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.s /c C:\Users\stein\CLionProjects\BeginnerTutorial\johnnyWorkspace\Workspace.c
+<<
+
 # Object files for target Library1
 Library1_OBJECTS = \
-"CMakeFiles\Library1.dir\demoLibrary\Library1.c.obj"
+"CMakeFiles\Library1.dir\demoLibrary\Library1.c.obj" \
+"CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.obj" \
+"CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.obj" \
+"CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.obj"
 
 # External object files for target Library1
 Library1_EXTERNAL_OBJECTS =
 
 Library1.lib: CMakeFiles\Library1.dir\demoLibrary\Library1.c.obj
+Library1.lib: CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.obj
+Library1.lib: CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.obj
+Library1.lib: CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.obj
 Library1.lib: CMakeFiles\Library1.dir\build.make
 Library1.lib: CMakeFiles\Library1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C static library Library1.lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\stein\CLionProjects\BeginnerTutorial\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C static library Library1.lib"
 	$(CMAKE_COMMAND) -P CMakeFiles\Library1.dir\cmake_clean_target.cmake
 	C:\PROGRA~2\MICROS~1\2017\BUILDT~1\VC\Tools\MSVC\1416~1.270\bin\Hostx86\x86\link.exe /lib /nologo /machine:X86 /out:Library1.lib @CMakeFiles\Library1.dir\objects1.rsp 
 

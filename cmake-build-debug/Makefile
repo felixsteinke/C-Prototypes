@@ -137,6 +137,66 @@ Library1\fast:
 	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\build
 .PHONY : Library1\fast
 
+FelixWorkspace\Workspace.obj: FelixWorkspace\Workspace.c.obj
+
+.PHONY : FelixWorkspace\Workspace.obj
+
+# target to build an object file
+FelixWorkspace\Workspace.c.obj:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.obj
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.obj
+.PHONY : FelixWorkspace\Workspace.c.obj
+
+FelixWorkspace\Workspace.i: FelixWorkspace\Workspace.c.i
+
+.PHONY : FelixWorkspace\Workspace.i
+
+# target to preprocess a source file
+FelixWorkspace\Workspace.c.i:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.i
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.i
+.PHONY : FelixWorkspace\Workspace.c.i
+
+FelixWorkspace\Workspace.s: FelixWorkspace\Workspace.c.s
+
+.PHONY : FelixWorkspace\Workspace.s
+
+# target to generate assembly for a file
+FelixWorkspace\Workspace.c.s:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\FelixWorkspace\Workspace.c.s
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\FelixWorkspace\Workspace.c.s
+.PHONY : FelixWorkspace\Workspace.c.s
+
+FloWorkspace\Workspace.obj: FloWorkspace\Workspace.c.obj
+
+.PHONY : FloWorkspace\Workspace.obj
+
+# target to build an object file
+FloWorkspace\Workspace.c.obj:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.obj
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.obj
+.PHONY : FloWorkspace\Workspace.c.obj
+
+FloWorkspace\Workspace.i: FloWorkspace\Workspace.c.i
+
+.PHONY : FloWorkspace\Workspace.i
+
+# target to preprocess a source file
+FloWorkspace\Workspace.c.i:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.i
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.i
+.PHONY : FloWorkspace\Workspace.c.i
+
+FloWorkspace\Workspace.s: FloWorkspace\Workspace.c.s
+
+.PHONY : FloWorkspace\Workspace.s
+
+# target to generate assembly for a file
+FloWorkspace\Workspace.c.s:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\FloWorkspace\Workspace.c.s
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\FloWorkspace\Workspace.c.s
+.PHONY : FloWorkspace\Workspace.c.s
+
 demo1\Main.obj: demo1\Main.c.obj
 
 .PHONY : demo1\Main.obj
@@ -191,6 +251,36 @@ demoLibrary\Library1.c.s:
 	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\demoLibrary\Library1.c.s
 .PHONY : demoLibrary\Library1.c.s
 
+johnnyWorkspace\Workspace.obj: johnnyWorkspace\Workspace.c.obj
+
+.PHONY : johnnyWorkspace\Workspace.obj
+
+# target to build an object file
+johnnyWorkspace\Workspace.c.obj:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.obj
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.obj
+.PHONY : johnnyWorkspace\Workspace.c.obj
+
+johnnyWorkspace\Workspace.i: johnnyWorkspace\Workspace.c.i
+
+.PHONY : johnnyWorkspace\Workspace.i
+
+# target to preprocess a source file
+johnnyWorkspace\Workspace.c.i:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.i
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.i
+.PHONY : johnnyWorkspace\Workspace.c.i
+
+johnnyWorkspace\Workspace.s: johnnyWorkspace\Workspace.c.s
+
+.PHONY : johnnyWorkspace\Workspace.s
+
+# target to generate assembly for a file
+johnnyWorkspace\Workspace.c.s:
+	$(MAKE) -f CMakeFiles\BeginnerTutorial.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\BeginnerTutorial.dir\johnnyWorkspace\Workspace.c.s
+	$(MAKE) -f CMakeFiles\Library1.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\Library1.dir\johnnyWorkspace\Workspace.c.s
+.PHONY : johnnyWorkspace\Workspace.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -201,12 +291,21 @@ help:
 	@echo ... Library1
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... FelixWorkspace/Workspace.obj
+	@echo ... FelixWorkspace/Workspace.i
+	@echo ... FelixWorkspace/Workspace.s
+	@echo ... FloWorkspace/Workspace.obj
+	@echo ... FloWorkspace/Workspace.i
+	@echo ... FloWorkspace/Workspace.s
 	@echo ... demo1/Main.obj
 	@echo ... demo1/Main.i
 	@echo ... demo1/Main.s
 	@echo ... demoLibrary/Library1.obj
 	@echo ... demoLibrary/Library1.i
 	@echo ... demoLibrary/Library1.s
+	@echo ... johnnyWorkspace/Workspace.obj
+	@echo ... johnnyWorkspace/Workspace.i
+	@echo ... johnnyWorkspace/Workspace.s
 .PHONY : help
 
 

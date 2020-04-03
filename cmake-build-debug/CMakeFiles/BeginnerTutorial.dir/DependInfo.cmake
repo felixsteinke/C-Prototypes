@@ -4,7 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/stein/CLionProjects/BeginnerTutorial/FelixWorkspace/Workspace.c" "C:/Users/stein/CLionProjects/BeginnerTutorial/cmake-build-debug/CMakeFiles/BeginnerTutorial.dir/FelixWorkspace/Workspace.c.obj"
+  "C:/Users/stein/CLionProjects/BeginnerTutorial/FloWorkspace/Workspace.c" "C:/Users/stein/CLionProjects/BeginnerTutorial/cmake-build-debug/CMakeFiles/BeginnerTutorial.dir/FloWorkspace/Workspace.c.obj"
   "C:/Users/stein/CLionProjects/BeginnerTutorial/demo1/Main.c" "C:/Users/stein/CLionProjects/BeginnerTutorial/cmake-build-debug/CMakeFiles/BeginnerTutorial.dir/demo1/Main.c.obj"
+  "C:/Users/stein/CLionProjects/BeginnerTutorial/johnnyWorkspace/Workspace.c" "C:/Users/stein/CLionProjects/BeginnerTutorial/cmake-build-debug/CMakeFiles/BeginnerTutorial.dir/johnnyWorkspace/Workspace.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")
 
