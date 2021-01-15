@@ -1,6 +1,3 @@
-//
-// Created by stein on 03.04.2020.
-//
 #include <stdio.h>
 #include <string.h>
 
@@ -36,4 +33,3 @@ int main (int argc, char *argv[]){
     printf("Ihr BMI ist: %.1f\n",bmi(weight, size));
     return 0;
 }
-
