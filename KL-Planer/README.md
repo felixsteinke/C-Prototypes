@@ -135,3 +135,9 @@ DatenObjekte:
         vector <Room> rooms;                                --> Speichert ALLE Rooms --> Ziel aller Referenzen
         vector <Professor> profs;                           --> Speichert ALLE Profs --> Ziel aller Referenzen
         vector <Student> studentIndices;                    --> Speichert ALLE Students --> Ziel aller Referenzen
+
+## Contributor
+
+* [Felix Steinke](https://github.com/felixsteinke)
+* [Johannes Imminger](https://github.com/JohnnyImminger)
+* [Florian Grabowski](https://github.com/FlorianGrabowski)

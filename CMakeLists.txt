@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.17)
-project(../C-Prototypes C)
+project(C-Prototypes C)
 
 add_subdirectory(./CalcBMI CalcBMI)
 add_subdirectory(./KL-Planer KL-Planer)
