@@ -1,0 +1,13 @@
+all: shared
+
+ifeq ($(OS), Windows_NT)
+shared: shared.o
+	gcc -shared -o shared.dll shared.o foo.o
+else ifeq ($(shell uname -s), Linux)
+shared: shared.o
+	gcc -shared -o shared.so -fPIC shared.o foo.o
+endif
+
+
+shared.o: shared.c
+	gcc -c shared.c -fPIC

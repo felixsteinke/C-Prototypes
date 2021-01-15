@@ -1,0 +1,14 @@
+all: main
+
+
+ifeq ($(OS), Windows_NT)
+main: main.o
+	gcc -o main main.o foo.o
+else ifeq ($(shell uname -s), Linux)
+main: main.o
+	gcc -o main main.o foo.o -ldl
+endif
+
+
+main.o: main.c
+	gcc -c main.c
